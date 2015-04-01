@@ -2,7 +2,7 @@ body {
   background-color: #CCCCFF;
 }
 
-h1 {
+placard {
 color: black;
 text-align: center;
 font-size: 30pt;
@@ -12,13 +12,13 @@ font-family: "Courier New", "Courier", monospace;
 main {
 color: black;
 text-align: center;
-font-size: 15pt;
+font-size: 10pt;
 font-family: "Courier New", "Courier", monospace;
 }
 
 foot {
   color: black;
   text-align: center;
-  font-size: 10pt;
+  font-size: 7pt;
   font-family: "Courier New", "Courier", "monospace";
 }
