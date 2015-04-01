@@ -33,4 +33,6 @@ $randomThings = array(
     'GOD',
 );
 
+echo $randomThings[mt_rand(0,count($randomThings)-1)];
+
 ?>
