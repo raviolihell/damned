@@ -25,11 +25,9 @@
 		<td>
 		    <span title="With luck you'll become emotionally attached">Ravioli name:</span><br>
 		    <input type="text" name="ravioliname" value="
-		    <?php
-
-echo $randomThings[mt_rand(0,count($randomThings)-1)];
-
-?>
+		    <script>
+		    document.write("<?php echo $randomThings[mt_rand(0,count($randomThings)-1)];")
+		    </script>
 		    ">
 		    <p>
 		    <span title="Please take your hemisphere into consideration">Seasonings:</span><br>
