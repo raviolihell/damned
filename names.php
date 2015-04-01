@@ -26,6 +26,11 @@ $randomThings = array(
     'bigmac',
     'Zac',
     'rumplestiltskin',
+    'delicious',
+    'lady gaga',
+    'aziz ansari',
+    'hatsune miku',
+    'GOD',
 );
 
 ?>
