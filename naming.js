@@ -4,4 +4,4 @@ var randInt = randomGenerator(0, array.length - 1);
 
 var item = array[randInt];
 
-var textbox = document.getElementById("textbox_id").value = randInt;
+document.write(var item);
