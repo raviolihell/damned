@@ -8,4 +8,4 @@ nameIdea[5] = "If I was in L.A.";
 nameIdea[6] = "California dreaming, On such a winter's day";
 var i = Math.floor(7*Math.random())
 
-document.write(r_text[i]);
+document.write(nameIdea[i]);
