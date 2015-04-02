@@ -1,7 +1,7 @@
-  var msgArr = new Array();
-	msgArr[0] = "UHHHH";
-	msgArr[1] = "TESTING";
-	msgArr[2] = "SATANNN"
-	window.onload = function () {
-		document.getElementById("msgDiv").innerHTML = msgArr[Math.floor(Math.random()*msgArr.length)];
-	}
+var array = ["satann", "Drizzy", "macbeth", "badonkadonk", "Slime Jr.", "Skeletor"];
+
+var randInt = randomGenerator(0, array.length - 1);
+
+var item = array[randInt];
+
+var textbox = document.getElementById("textbox_id").value = randInt;
