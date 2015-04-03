@@ -13,6 +13,8 @@ nameIdea[10] = "dick cheney made money off the iraq war";
 nameIdea[11] = "ass";
 nameIdea[12] = "Otto Schmidtlap";
 nameIdea[13] = "Ass Ketchum";
-var i = Math.floor(14*Math.random())
+nameIdea[14] = "furry";
+nameIdea[15] = "weaboo";
+var i = Math.floor(16*Math.random())
 
 document.write(nameIdea[i]);
