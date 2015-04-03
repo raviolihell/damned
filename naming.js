@@ -1,7 +1,7 @@
 var nameIdea = new Array ();
 nameIdea[0] = "Macbeth";
 nameIdea[1] = "Skeletor";
-nameIdea[2] = "lil fucker";
+nameIdea[2] = "SPOON";
 nameIdea[3] = "square pasta bastard";
 nameIdea[4] = "bush staged 9/11";
 nameIdea[5] = "anusthrasher69";
@@ -14,7 +14,24 @@ nameIdea[11] = "ass";
 nameIdea[12] = "Otto Schmidtlap";
 nameIdea[13] = "Ass Ketchum";
 nameIdea[14] = "furry";
-nameIdea[15] = "weaboo";
-var i = Math.floor(16*Math.random())
+nameIdea[15] = "weeaboo";
+nameIdea[16] = "cyclops";
+nameIdea[17] = "Megatron";
+nameIdea[18] = "H Y D R O G E N";
+nameIdea[19] = "eeeeeelectricity";
+nameIdea[20] = "ernestness";
+nameIdea[21] = "DOLPHIN??";
+nameIdea[22] = "gordita crunch";
+nameIdea[23] = "ShARK COP";
+nameIdea[24] = "THE POWER OF GROUP SEX";
+nameIdea[25] = "frito lays";
+nameIdea[26] = "an expired bag of cheese";
+nameIdea[27] = "heart with a smiley face drawn on it";
+nameIdea[28] = "wet naps?";
+nameIdea[29] = "UHHHH? COME BACK TO ME...";
+nameIdea[30] = "chocolate raiiinnn-ah";
+nameIdea[31] = "Stephen Soderbergh";
+nameIdea[32] = "DVD box set buuut one of the discs is missing";
+var i = Math.floor(33*Math.random())
 
 document.write(nameIdea[i]);
