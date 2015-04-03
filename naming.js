@@ -43,6 +43,9 @@ nameIdea[40] = "infINITY CORE";
 nameIdea[41] = "AUHHHHHHHHH";
 nameIdea[42] = "awh SHIT";
 nameIdea[43] = "*harmonica sounds*";
-var i = Math.floor(44*Math.random())
+nameIdea[44] = "by your powers combined... I... am CAPTAIN PLANET!!";
+nameIdea[45] = "*seagull noises*";
+nameIdea[46] = "the void of space";
+var i = Math.floor(47*Math.random())
 //this number ^ must always be one more than however many nameIdeas there are!!!
 document.write(nameIdea[i]);
