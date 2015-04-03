@@ -5,8 +5,14 @@ nameIdea[2] = "lil fucker";
 nameIdea[3] = "square pasta bastard";
 nameIdea[4] = "bush staged 9/11";
 nameIdea[5] = "anusthrasher69";
-nameIdea[6] = "xXx_y0l0_360_sWaGsCoPe_xXx";
+nameIdea[6] = "xXx_360_Swagscope_xXx";
 nameIdea[7] = "it's not ogre";
-var i = Math.floor(8*Math.random())
+nameIdea[8] = "prince stolas";
+nameIdea[9] = "u fckin wot m8";
+nameIdea[10] = "dick cheney made money off the iraq war";
+nameIdea[11] = "ass";
+nameIdea[12] = "Otto Schmidtlap";
+nameIdea[13] = "Ass Ketchum";
+var i = Math.floor(14*Math.random())
 
 document.write(nameIdea[i]);
