@@ -32,6 +32,17 @@ nameIdea[29] = "UHHHH? COME BACK TO ME...";
 nameIdea[30] = "chocolate raiiinnn-ah";
 nameIdea[31] = "Stephen Soderbergh";
 nameIdea[32] = "DVD box set buuut one of the discs is missing";
-var i = Math.floor(33*Math.random())
-
+nameIdea[33] = "the idea of racism";
+nameIdea[34] = "COCAINE. COCAINE!"
+nameIdea[35] = "electrobrain";
+nameIdea[36] = "hHGAIDHHGH??";
+nameIdea[37] = "ooooo i'm drunk";
+nameIdea[38] = "*coughing sounds*";
+nameIdea[39] = "a fat man";
+nameIdea[40] = "infINITY CORE";
+nameIdea[41] = "AUHHHHHHHHH";
+nameIdea[42] = "awh SHIT";
+nameIdea[43] = "*harmonica sounds*";
+var i = Math.floor(44*Math.random())
+//this number ^ must always be one more than however many nameIdeas there are!!!
 document.write(nameIdea[i]);
