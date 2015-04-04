@@ -5,7 +5,7 @@
 
 <body>
 Congrats fucknuts.
-<p> <?php echo $_POST['name']; ?> has been born.
+<p> ass has been born.
 
 </body>
 </html>
