@@ -18,3 +18,9 @@ menu {
   padding-right: 10px;
   padding-left: 10px;
 }
+placard {
+  color: black;
+  text-align: center;
+  font-size: 30pt;
+  font-family: "Courier New", "Courier", monospace;
+}
