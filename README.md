@@ -1,2 +1,2 @@
 # raviolihell.github.io
-hello please fuck off thanks
+if you want to suggest improvements to this pile of string cheese, please submit them to slime@radsli.me
