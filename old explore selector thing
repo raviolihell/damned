@@ -1,0 +1,22 @@
+  <select id="foo">
+    <option value="">>> EXPLORE <<</option>
+    <option value="">--social--</option>
+    <option value="http://radslime.tumblr.com/" target="tumblr">tumblr</option>
+    <option value="http://twitter.com/HELLISRAD">twitter</option>
+    <option value="mailto:slime@radsli.me" target="email">email</option>
+    <option value="">--projects--</option>
+    <option value="/spider.html" target="spider">the Spider</option>
+    <option value="/CHAMP.html" target="whoischamp">JOHN CENA</option>
+    <option value="/hell.html">Ravioli Hell (game)</option>
+    <option value="">--help me eat--</option>
+    <option value="http://patreon.com/radslime">patreon</option>
+    <option value="">--misc--</option>
+    <option value="/thanks.html">SPECIAL THANKS</option>
+    </select> 
+<script>
+    document.getElementById("foo").onchange = function() {
+        if (this.selectedIndex!==0) {
+            window.location.href = this.value;
+        }        
+    };
+</script>
