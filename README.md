@@ -1,2 +1,2 @@
 # raviolihell.github.io
-hello please fuck off thanks
+talk to me: slime@ravioli.cc
