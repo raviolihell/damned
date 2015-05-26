@@ -3,6 +3,7 @@ body {
   background-image: url(http://i61.tinypic.com/4kvc3p.png);
   background-size: 100px 100px;
   background-attachment: fixed;
+  font-family: "Courier New", "Courier", monospace;
 }
 menu {
   border-radius: 10px;
