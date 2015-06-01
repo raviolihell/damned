@@ -9,6 +9,9 @@ body {
 a {
   cursor: url(http://i.imgur.com/2wqeqmJ.png), auto;
 }
+script {
+  cursor: url(http://i.imgur.com/2wqeqmJ.png), auto;
+}
 menu {
   border-radius: 20px;
   border: 1px white;
