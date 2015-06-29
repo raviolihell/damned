@@ -5,21 +5,21 @@ body {
 }
 
 h1 {
-color: #ffffff;
+color: #fff;
 text-align: center;
 font-size: 30pt;
 font-family: "Courier New", "Courier", monospace;
 }
 
 t {
-color: #ffffff;
+color: #fff;
 text-align: center;
 font-size: 15pt;
 font-family: "Courier New", "Courier", monospace;
 }
 
 foot {
-  color: #ffffff;
+  color: #fff;
   text-align: center;
   font-size: 10pt;
   font-family: "Courier New", "Courier", monospace;
@@ -28,4 +28,10 @@ foot {
 img {
   cursor: url(http://i.imgur.com/2wqeqmJ.png), auto;
   padding-top: 100px;
+}
+
+a {
+  font-size: 15pt;
+  font-family: "Courier New", "Courier", monospace;
+  color: #fff;
 }
